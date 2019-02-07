@@ -1,6 +1,6 @@
-baseURL = "https:/habroptilus.github.io/"
+baseURL = "https://habroptilus.github.io/"
 languageCode = "en-us"
-title = "Portfolio"
+title = "Hikaru Ogura"
 
 publishDir = "docs"
 
