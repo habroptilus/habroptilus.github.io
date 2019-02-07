@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2019-02-06T23:11:25+09:00
-draft: true
+draft: false
 ---
 
 ## pythonでめっちゃ大きい数
