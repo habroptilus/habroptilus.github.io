@@ -6,28 +6,9 @@
     <description>Recent content on Hikaru Ogura</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Feb 2019 11:30:52 +0900</lastBuildDate>
     
 	<atom:link href="https://habroptilus.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hoge</title>
-      <link>https://habroptilus.github.io/posts/hoge/</link>
-      <pubDate>Thu, 07 Feb 2019 11:30:52 +0900</pubDate>
-      
-      <guid>https://habroptilus.github.io/posts/hoge/</guid>
-      <description> まじでなぞ </description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://habroptilus.github.io/posts/test/</link>
-      <pubDate>Wed, 06 Feb 2019 23:11:25 +0900</pubDate>
-      
-      <guid>https://habroptilus.github.io/posts/test/</guid>
-      <description> testだよ </description>
-    </item>
     
   </channel>
 </rss>
