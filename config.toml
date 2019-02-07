@@ -91,7 +91,7 @@ term="2018/09 - 2018/09"
   title = "May search"
   alt = ""
   source = "img/may_search1.jpg"
-  url = "#"
+  url = "javascript:void(0);"
   description="五月祭経路探索アプリ"
 
 
@@ -99,14 +99,14 @@ term="2018/09 - 2018/09"
   title = "Share future"
   alt = ""
   source = "img/share_future.png"
-  url = "#"
+  url = "javascript:void(0);"
   description="未来のアイデア共有アプリ"
 
 [[params.project3]]
   title = "Quiz generator"
   alt = ""
   source = "img/quiz_gen.png"
-  url = "#"
+  url = "javascript:void(0);"
   description="クイズ自動生成アプリ"
 
 
