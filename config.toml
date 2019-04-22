@@ -47,6 +47,12 @@ term="2017/08 - 2018/05"
 
 
 [[params.parttime]]
+company="カラクリ株式会社"
+job_discription="NLP, Deep Learning"
+term="2019/03 - 2019/04"
+
+
+[[params.parttime]]
 company="ソネット・メディア・ネットワークス株式会社"
 job_discription="a.i lab(R&D)"
 term="2018/06 - present"
@@ -115,11 +121,12 @@ term="2018/09 - 2018/09"
 
 
 [[params.interest]]
-  item="Causal Inference"
+  item="Natural Language Processing"
 
 
 [[params.interest]]
-  item="Natural Language Processing"
+  item="Computer Vision"
+
 
 
 
