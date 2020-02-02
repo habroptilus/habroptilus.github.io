@@ -1,7 +1,16 @@
-This is the portfolio repo of this account(@habroptilus)
+This is the portfolio repo of this account (@habroptilus)
 
-### Deploy
+### Develop
+
+1. Modify `config.toml`, `layouts/`, `static/`  in `source` branch.
+2. Push commits to `source` branch.
 
 ```
-sh deploy.sh
+git push origin source
+```
+
+### Build & Deploy
+
+```
+sh build_deploy.sh
 ```
