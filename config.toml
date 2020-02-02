@@ -30,7 +30,7 @@ publishDir = "docs"
 [[params.social]]
   medium = "qiita"
   icon = "search"
-  link = "https://qiita.com/habroptilus"
+  link = "https://qiita.com/guglilac"
 
 
 [[params.social]]
@@ -77,28 +77,37 @@ term="2018/09 - 2018/09"
 
 # Project
 
-[[params.project1]]
-  title = "Numeron app"
-  alt = ""
-  source = "img/numeron_app.png"
-  url = "https://numeron-app.herokuapp.com/"
-  description="数当てゲーム(CPUと対戦可能)"
-
 
 [[params.project1]]
   title = "Blog"
   alt = ""
   source = "img/blog.png"
   url = "https://www.smartbowwow.com/"
-  description="技術ブログです。"
+  description="技術ブログ"
+
+[[params.project1]]
+  title = "Numeron app"
+  alt = ""
+  source = "img/numeron_app.png"
+  url = "https://www.smartbowwow.com/2018/11/webnumeron-app.html"
+  description="数当てゲーム"
+
 
 
 [[params.project2]]
-  title = "May search"
+  title = "May Search"
   alt = ""
   source = "img/may_search1.jpg"
   url = "javascript:void(0);"
   description="五月祭経路探索アプリ"
+
+
+[[params.project3]]
+  title = "Tatsuya Fujiwara Gacha"
+  alt = ""
+  source = "img/tatsuya_gacha.png"
+  url = "https://tatsuya-gacha.smartbowwow.com/"
+  description="藤原竜也ガチャ"
 
 
 [[params.project3]]
@@ -108,16 +117,10 @@ term="2018/09 - 2018/09"
   url = "javascript:void(0);"
   description="未来のアイデア共有アプリ"
 
-[[params.project3]]
-  title = "Quiz generator"
-  alt = ""
-  source = "img/quiz_gen.png"
-  url = "javascript:void(0);"
-  description="クイズ自動生成アプリ"
 
 
 [[params.interest]]
-  item="Deep Learning"
+  item="Machine Learning"
 
 
 [[params.interest]]
@@ -125,14 +128,14 @@ term="2018/09 - 2018/09"
 
 
 [[params.interest]]
-  item="Computer Vision"
+  item="Recommender System"
 
 
 
 
 
 [[params.programming]]
-  item="Python(Pytorch,Keras,Flask)"
+  item="Python(PyTorch,Keras,Flask)"
 
 
 [[params.programming]]
