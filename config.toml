@@ -7,7 +7,7 @@ publishDir = "docs"
 [params]
   name = "Hikaru Ogura"
   description = "Master's Student"
-  copyright = "Untitled."
+  copyright = "Hikaru Ogura"
 
 [[params.social]]
   medium = "twitter"
@@ -40,10 +40,15 @@ publishDir = "docs"
 
 # career
 
+#[[params.parttime]]
+#company="日本ユースウェアシステム株式会社"
+#job_discription="Web developer"
+#term="2017/08 - 2018/05"
+
 [[params.parttime]]
-company="日本ユースウェアシステム株式会社"
-job_discription="Web developer"
-term="2017/08 - 2018/05"
+company="ソネット・メディア・ネットワークス株式会社"
+job_discription="a.i lab (R&D)"
+term="2018/06 - 2020/03"
 
 
 [[params.parttime]]
@@ -52,15 +57,17 @@ job_discription="NLP, Deep Learning"
 term="2019/03 - 2019/04"
 
 
+
 [[params.parttime]]
-company="ソネット・メディア・ネットワークス株式会社"
-job_discription="a.i lab(R&D)"
-term="2018/06 - present"
+company="株式会社DROBE"
+job_discription="Machine Learning Engineer"
+term="2020/02 - present"
+
 
 
 [[params.internship]]
 company="株式会社ワークスアプリケーションズ"
-job_discription="Hackathons"
+job_discription="Hackathons (優秀賞受賞)"
 term="2016/08 - 2016/09"
 
 
@@ -94,28 +101,36 @@ term="2018/09 - 2018/09"
 
 
 
+#[[params.project2]]
+#  title = "May Search"
+#  alt = ""
+#  source = "img/may_search1.jpg"
+#  url = "javascript:void(0);"
+#  description="五月祭経路探索アプリ"
+
+
 [[params.project2]]
-  title = "May Search"
-  alt = ""
-  source = "img/may_search1.jpg"
-  url = "javascript:void(0);"
-  description="五月祭経路探索アプリ"
-
-
-[[params.project3]]
   title = "Tatsuya Fujiwara Gacha"
   alt = ""
   source = "img/tatsuya_gacha.png"
   url = "https://tatsuya-gacha.smartbowwow.com/"
   description="藤原竜也ガチャ"
 
-
-[[params.project3]]
-  title = "Share future"
+[[params.project2]]
+  title = "Kanji-lyric Quiz Bot"
   alt = ""
-  source = "img/share_future.png"
-  url = "javascript:void(0);"
-  description="未来のアイデア共有アプリ"
+  source = "img/kanji_lyric.png"
+  url = "https://twitter.com/kanji_lyric"
+  description="漢字歌詞クイズbot"
+
+
+
+#[[params.project3]]
+#  title = "Share future"
+#  alt = ""
+#  source = "img/share_future.png"
+#  url = "javascript:void(0);"
+#  description="未来のアイデア共有アプリ"
 
 
 
@@ -135,7 +150,7 @@ term="2018/09 - 2018/09"
 
 
 [[params.programming]]
-  item="Python(PyTorch,Keras,Flask)"
+  item="Python (PyTorch, Keras, Flask)"
 
 
 [[params.programming]]
