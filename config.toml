@@ -101,7 +101,7 @@ term="2018/09 - 2018/09"
 
 
 
-#[[params.project2]]
+#[[params.project1]]
 #  title = "May Search"
 #  alt = ""
 #  source = "img/may_search1.jpg"
@@ -125,12 +125,12 @@ term="2018/09 - 2018/09"
 
 
 
-#[[params.project3]]
-#  title = "Share future"
-#  alt = ""
-#  source = "img/share_future.png"
-#  url = "javascript:void(0);"
-#  description="未来のアイデア共有アプリ"
+[[params.project2]]
+  title = "Share future"
+  alt = ""
+  source = "img/share_future.png"
+  url = "http://app.mayfes2018-utatane.com/"
+  description="未来のアイデア共有アプリ"
 
 
 
