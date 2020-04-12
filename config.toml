@@ -6,7 +6,7 @@ publishDir = "docs"
 
 [params]
   name = "Hikaru Ogura"
-  description = "Master's Student"
+  description = "ML Engineer"
   copyright = "Hikaru Ogura"
 
 [[params.social]]
