@@ -1,7 +1,6 @@
 baseURL = "https://habroptilus.github.io/"
 languageCode = "en-us"
 title = "Hikaru Ogura"
-
 publishDir = "docs"
 
 [params]
@@ -38,61 +37,68 @@ publishDir = "docs"
   icon = "pencil"
   link = "https://www.smartbowwow.com/"
 
+# parttime
+[[params.parttime]]
+company="DROBE Inc."
+job_discription="Technical Advisor"
+term="Feb 2020 - Mar 2020"
+
+[[params.parttime]]
+company="KARAKURI Inc."
+job_discription="NLP, Deep Learning"
+term=" Mar 2019 - Apr 2019"
+
+
+[[params.parttime]]
+company="SMN Corporation"
+job_discription="a.i lab (R&D)"
+term="Jun 2018 - Mar 2020"
+
+
+[[params.parttime]]
+company="JAPAN USEWARE SYSTEM Co.,Ltd."
+job_discription="Web developer"
+term="Aug 2017 - May 2018"
+
+# internship
+
+[[params.internship]]
+company="Recruit Technologies Co.,Ltd."
+job_discription="data analyst course"
+term="Sep 2018 - Sep 2018"
+
+
+[[params.internship]]
+company="Yahoo Japan Corporation"
+job_discription="data science course"
+term="Aug 2018 - Aug 2018"
+
+
+
+[[params.internship]]
+company="Works Applications Co., Ltd."
+job_discription="Hackathons"
+term="Aug 2016 - Sep 2016"
+
 # career
 
-#[[params.parttime]]
-#company="日本ユースウェアシステム株式会社"
-#job_discription="Web developer"
-#term="2017/08 - 2018/05"
-
-[[params.parttime]]
-company="ソネット・メディア・ネットワークス株式会社"
-job_discription="a.i lab (R&D)"
-term="2018/06 - 2020/03"
+[[params.career]]
+company="Yahoo Japan Corporation"
+job_discription="ML engineer"
+term="Apr 2020 - present"
 
 
-[[params.parttime]]
-company="カラクリ株式会社"
-job_discription="NLP, Deep Learning"
-term="2019/03 - 2019/04"
+# Product
 
 
-
-[[params.parttime]]
-company="株式会社DROBE"
-job_discription="Technical Advisor"
-term="2020/02 - 2020/03"
-
-
-
-[[params.internship]]
-company="株式会社ワークスアプリケーションズ"
-job_discription="Hackathons (優秀賞受賞)"
-term="2016/08 - 2016/09"
-
-
-[[params.internship]]
-company="ヤフー株式会社"
-job_discription="data science course"
-term="2018/08 -2018/08"
-
-[[params.internship]]
-company="株式会社リクルートテクノロジーズ"
-job_discription="data analyst course"
-term="2018/09 - 2018/09"
-
-
-# Project
-
-
-[[params.project1]]
-  title = "Blog"
+[[params.product1]]
+  title = "Tech blog"
   alt = ""
   source = "img/blog.png"
   url = "https://www.smartbowwow.com/"
   description="技術ブログ"
 
-[[params.project1]]
+[[params.product1]]
   title = "Numeron app"
   alt = ""
   source = "img/numeron_app.png"
@@ -101,7 +107,7 @@ term="2018/09 - 2018/09"
 
 
 
-#[[params.project1]]
+#[[params.product1]]
 #  title = "May Search"
 #  alt = ""
 #  source = "img/may_search1.jpg"
@@ -109,14 +115,14 @@ term="2018/09 - 2018/09"
 #  description="五月祭経路探索アプリ"
 
 
-[[params.project2]]
+[[params.product2]]
   title = "Tatsuya Fujiwara Gacha"
   alt = ""
   source = "img/tatsuya_gacha.png"
   url = "https://tatsuya-gacha.smartbowwow.com/"
   description="藤原竜也ガチャ"
 
-[[params.project2]]
+[[params.product2]]
   title = "Kanji-lyric Quiz Bot"
   alt = ""
   source = "img/kanji_lyric.png"
@@ -125,13 +131,24 @@ term="2018/09 - 2018/09"
 
 
 
-[[params.project2]]
+[[params.product2]]
   title = "Share future"
   alt = ""
   source = "img/share_future.png"
   url = "http://app.mayfes2018-utatane.com/"
   description="未来のアイデア共有アプリ"
 
+
+
+[[params.achievements1]]
+  title="Internal Hack Day 17"
+  content="ヤフー賞, 一休賞 受賞"
+  at="Jun 2020"
+
+[[params.achievements2]]
+  title="Works Applications Internship"
+  content="優秀賞 受賞"
+  at="Sep 2016"
 
 
 [[params.interest]]
