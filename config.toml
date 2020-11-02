@@ -55,22 +55,22 @@ job_discription="a.i lab (R&D)"
 term="Jun 2018 - Mar 2020"
 
 
-[[params.parttime]]
-company="JAPAN USEWARE SYSTEM Co.,Ltd."
-job_discription="Web developer"
-term="Aug 2017 - May 2018"
+#[[params.parttime]]
+#company="JAPAN USEWARE SYSTEM Co.,Ltd."
+#job_discription="Web developer"
+#term="Aug 2017 - May 2018"
 
 # internship
 
 [[params.internship]]
 company="Recruit Technologies Co.,Ltd."
-job_discription="data analyst course"
+job_discription="Data analyst course"
 term="Sep 2018 - Sep 2018"
 
 
 [[params.internship]]
 company="Yahoo Japan Corporation"
-job_discription="data science course"
+job_discription="Data science course"
 term="Aug 2018 - Aug 2018"
 
 
@@ -99,12 +99,18 @@ term="Apr 2020 - present"
   description="技術ブログ"
 
 [[params.product1]]
+  title = "Splatoon memory"
+  alt = ""
+  source = "img/splatoon_memory.png"
+  url = "https://guglilac.pythonanywhere.com/"
+  description="スプラトゥーン神経衰弱"
+
+[[params.product1]]
   title = "Numeron app"
   alt = ""
   source = "img/numeron_app.png"
   url = "https://www.smartbowwow.com/2018/11/webnumeron-app.html"
   description="数当てゲーム"
-
 
 
 #[[params.product1]]
@@ -116,20 +122,18 @@ term="Apr 2020 - present"
 
 
 [[params.product2]]
-  title = "Tatsuya Fujiwara Gacha"
-  alt = ""
-  source = "img/tatsuya_gacha.png"
-  url = "https://tatsuya-gacha.smartbowwow.com/"
-  description="藤原竜也ガチャ"
-
-[[params.product2]]
   title = "Kanji-lyric Quiz Bot"
   alt = ""
   source = "img/kanji_lyric.png"
   url = "https://twitter.com/kanji_lyric"
   description="漢字歌詞クイズbot"
 
-
+[[params.product2]]
+  title = "Tatsuya Fujiwara Gacha"
+  alt = ""
+  source = "img/tatsuya_gacha.png"
+  url = "https://tatsuya-gacha.smartbowwow.com/"
+  description="藤原竜也ガチャ"
 
 [[params.product2]]
   title = "Share future"
@@ -139,15 +143,23 @@ term="Apr 2020 - present"
   description="未来のアイデア共有アプリ"
 
 
+[[params.contributions]]
+    title = "Internal Hack Day 17 report"
+    media = "Yahoo! JAPAN Tech Blog"
+    link = "https://techblog.yahoo.co.jp/entry/2020080430014499/"
+    at  = "Aug 2020"
 
-[[params.achievements1]]
+
+[[params.awards]]
   title="Internal Hack Day 17"
   content="ヤフー賞, 一休賞 受賞"
+  link = "https://techblog.yahoo.co.jp/entry/2020071430011124/"
   at="Jun 2020"
 
-[[params.achievements2]]
+[[params.awards]]
   title="Works Applications Internship"
   content="優秀賞 受賞"
+  link = "https://www.worksap.co.jp/"
   at="Sep 2016"
 
 

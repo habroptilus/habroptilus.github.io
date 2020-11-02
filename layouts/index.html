@@ -14,7 +14,7 @@
 	<link rel="stylesheet" href="/css/main.css" />
 	<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
 	<!--[if lte IE 9]><link rel="stylesheet" href="/css/ie9.css" /><![endif]-->
-	<link rel="shortcut icon" type="image/x-icon" href="img/kakapo.jpg">
+	<link rel="shortcut icon" type="image/x-icon" href="img/titleguri.jpg">
 </head>
 
 <body>
@@ -278,14 +278,17 @@
 		<section id="achievements">
 			<div class="container">
 				<header>
-					<h2>Achievements</h2>
+					<h2>Achienvements</h2>
 				</header>
 				<div class="row">
 					<div class="6u 12u$(mobile)">
-						{{ range .Site.Params.achievements1 }}
+						<header>
+							<h3>Awards</h3>
+						</header>
+						{{ range .Site.Params.awards }}
 						<article class="item">
 							<header>
-								<h3>{{ .title }}</h3>
+								<h3><a href="{{ .link }}">{{ .title }}</a></h3>
 								<p>{{ .content }}</p>
 								<p>{{ .at }}</p>
 							</header>
@@ -293,11 +296,14 @@
 						{{ end }}
 					</div>
 					<div class="6u 12u$(mobile)">
-						{{ range .Site.Params.achievements2}}
+						<header>
+							<h3>Contribitions</h3>
+						</header>
+						{{ range .Site.Params.contributions}}
 						<article class="item">
 							<header>
-								<h3>{{ .title }}</h3>
-								<p>{{ .content }}</p>
+								<h3><a href="{{ .link }}">{{ .title }}</a></h3>
+								<p>{{ .media }}</p>
 								<p>{{ .at }}</p>
 							</header>
 						</article>
