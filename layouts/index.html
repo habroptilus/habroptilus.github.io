@@ -281,7 +281,7 @@
 					<h2>Achienvements</h2>
 				</header>
 				<div class="row">
-					<div class="6u 12u$(mobile)">
+					<div class="4u 12u$(mobile)">
 						<header>
 							<h3>Awards</h3>
 						</header>
@@ -295,7 +295,21 @@
 						</article>
 						{{ end }}
 					</div>
-					<div class="6u 12u$(mobile)">
+					<div class="4u 12u$(mobile)">
+						<header>
+							<h3>Interviews</h3>
+						</header>
+						{{ range .Site.Params.interviews}}
+						<article class="item">
+							<header>
+								<h3><a href="{{ .link }}">{{ .title }}</a></h3>
+								<p>{{ .media }}</p>
+								<p>{{ .at }}</p>
+							</header>
+						</article>
+						{{ end }}
+					</div>
+					<div class="4u 12u$(mobile)">
 						<header>
 							<h3>Contribitions</h3>
 						</header>

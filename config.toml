@@ -149,6 +149,11 @@ term="Apr 2020 - present"
     link = "https://techblog.yahoo.co.jp/entry/2020080430014499/"
     at  = "Aug 2020"
 
+[[params.interviews]]
+    title = "20新卒エンジニアインタビュー"
+    media = "Linotice"
+    link = "https://about.yahoo.co.jp/hr/linotice/20201116.html"
+    at  = "Nov 2020"
 
 [[params.awards]]
   title="Internal Hack Day 17"
