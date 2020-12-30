@@ -105,12 +105,12 @@ term="Apr 2020 - present"
   url = "https://guglilac.pythonanywhere.com/"
   description="スプラトゥーン神経衰弱"
 
-[[params.product1]]
-  title = "Numeron app"
-  alt = ""
-  source = "img/numeron_app.png"
-  url = "https://www.smartbowwow.com/2018/11/webnumeron-app.html"
-  description="数当てゲーム"
+#[[params.product1]]
+#  title = "Numeron app"
+#  alt = ""
+#  source = "img/numeron_app.png"
+#  url = "https://www.smartbowwow.com/2018/11/webnumeron-app.html"
+#  description="数当てゲーム"
 
 
 #[[params.product1]]
@@ -128,12 +128,12 @@ term="Apr 2020 - present"
   url = "https://twitter.com/kanji_lyric"
   description="漢字歌詞クイズbot"
 
-[[params.product2]]
-  title = "Tatsuya Fujiwara Gacha"
-  alt = ""
-  source = "img/tatsuya_gacha.png"
-  url = "https://tatsuya-gacha.smartbowwow.com/"
-  description="藤原竜也ガチャ"
+#[[params.product2]]
+#  title = "Tatsuya Fujiwara Gacha"
+#  alt = ""
+#  source = "img/tatsuya_gacha.png"
+#  url = "https://tatsuya-gacha.smartbowwow.com/"
+#  description="藤原竜也ガチャ"
 
 [[params.product2]]
   title = "Share future"
