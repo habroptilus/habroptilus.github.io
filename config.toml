@@ -128,12 +128,12 @@ term="Apr 2020 - present"
   url = "https://twitter.com/kanji_lyric"
   description="漢字歌詞クイズbot"
 
-#[[params.product2]]
-#  title = "Tatsuya Fujiwara Gacha"
-#  alt = ""
-#  source = "img/tatsuya_gacha.png"
-#  url = "https://tatsuya-gacha.smartbowwow.com/"
-#  description="藤原竜也ガチャ"
+[[params.product2]]
+  title = "Tatsuya Fujiwara Gacha"
+  alt = ""
+  source = "img/tatsuya_gacha.png"
+  url = "https://habroptilus.github.io/tatsuya-gacha/"
+  description="藤原竜也ガチャ"
 
 [[params.product2]]
   title = "Share future"
