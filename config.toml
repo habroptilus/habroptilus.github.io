@@ -162,6 +162,13 @@ term="Sep 2021 - present"
     link = "https://about.yahoo.co.jp/hr/linotice/20201116.html"
     at  = "Nov 2020"
 
+
+[[params.awards]]
+  title="ProbSpace competitions 6th"
+  content="ML competisions"
+  link = "https://www.smartbowwow.com/2021/03/probspace.html"
+  at="Mar 2021"
+
 [[params.awards]]
   title="Internal Hack Day 17"
   content="ヤフー賞, 一休賞 受賞"
